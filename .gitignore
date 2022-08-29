@@ -1,17 +1,17 @@
 
-*/solutions/*
+**/solutions/*
 
 __pycache__
 .DS_Store
-*/.DS_Store/*
+**/.DS_Store/*
 
 # Temp files
 ~*
-*/~*
+**/~*
 
 # Jupyter Notebook
 .ipynb_checkpoints
-*/.ipynb_checkpoints/*
+**/.ipynb_checkpoints/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
